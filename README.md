@@ -1,9 +1,71 @@
-# Análisis Complejo — Segundo cuatrimestre de 2017
+# Análisis Complejo
 
-## Prácticas
+Primer cuatrimestre 2018
 
-- [Números Complejos. Esfera de Riemann. Homografías.](practica1.pdf)
+### Novedades
 
-## Página original
+### 
 
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/2docuat2017/analisis_complejo)
+\
+
+|  |
+| --- |
+| - Las clases empiezan el martes 20 de marzo!- Están disponibles las prácticas 1 y 2. |
+
+\
+
+### Docentes, horarios y aulas
+
+\
+
+| Teórica | Ma - Vi: 14 a 16hs | [Daniel Carando](mailto:dcarando@dm.uba.ar) | Aula:Ma , Vi | Pab: 1 |
+| Práctica | Ma - Vi: 16 a 19hs | [Juliana Osorio-](mailto:juli.osorio@gmail.com) - Mariano Chehebar | Aula:Ma , Vi | Pab: 1 |
+
+\
+
+### Prácticas
+
+\
+
+- Práctica 1 - [Números Complejos. Esfera de Riemann. Homografías.](practica1.pdf)
+
+\
+
+### Parciales
+
+\
+\
+Nuestra intención es tomar los parciales en los días de cursada de la materia y en el mismo horario, para minimizar los posibles inconvenientes. Las fechas previstas son:
+\
+
+- **Primer Parcial**:
+- **Segundo Parcial**:
+- **Recuperatorio del Primer Parcial**:
+- **Recuperatorio de Segundo Parcial**:
+
+\
+
+### Régimen de aprobación
+
+Se deben aprobar dos exámenes parciales. Habrá dos fechas de recuperación al finalizar el cuatrimestre, una para cada examen. Para poder ser incluido en las actas de trabajos prácticos es necesario haberse inscripto, mediante el [sistema de inscripciones de la facultad](http://www.inscripciones.fcen.uba.ar)
+
+### Correlatividades
+
+Para cursar esta materia se deberán tener aprobados los Trabajos Prácticos de Cálculo Avanzado y los Exámenes Finales de Análisis II y Álgebra Lineal.
+
+### Importante
+
+- Se recuerda que es obligatoria la lectura de las [normas de higiene y seguridad](http://www.dm.uba.ar/varios/normseg.html).
+- Programa y Bibliografía.
+
+\
+
+\
+
+### Otras Referencias Recomendadas
+
+\
+(además de la bibliografía del programa oficial)
+\
+
+- [Complex Variables](http://www.math.uiuc.edu/~r-ash/CV.html). Por Robert Ash y W.P. Novinger.- [Funciones de Variable Compleja](http://www.uv.es/ivorra/Libros/Varcom.pdf). Por Carlos Ivorra.- [Productos infinitos en variable compleja.](https://www.google.com.ar/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwij9a3SpsXXAhXGFpAKHU4jAHIQFggmMAA&url=http%3A%2F%2Fwww.um.es%2Fdocuments%2F118351%2F1884002%2FTFG_MARIN%2BLOPEZ.pdf%2Fc2d47713-d2f5-4397-843e-56ba99aa863a&usg=AOvVaw0oY2WbfqlREthdeDNHxBRu)
